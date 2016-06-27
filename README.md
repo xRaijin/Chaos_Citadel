@@ -1,2 +1,3 @@
-# Chaos_Citadel
-Transcrição e Automação do livro "A Cidadela do Caos" do Autor Steve Jackson para uma versão automatizada da aventura solo em python.
+# A Cidadela do Caos - O Jogo
+  Baseado no primeiro número da série de livros que praticamente introduziu o RPG de livro no Brasil, o objetivo deste projeto é utilizar um tem que gosto (As Aventuras de RPG) como uma forma de treino dos meus conhecimentos de programação.
+  Decidi utilizar a linguagem Python, linguagem de sintaxe simples que tenho usado como forma de treino do meu conhecimento de lógica de programação, comecei muito recentemente a me aventurar no mundo do desenvolvimento, e pretendo trabalhar com desenvolvimento de jogos um dia, por esse motivo a escolha da criação de uma aventura automatizada como ponto de partida para meu processo de aprendizado. Sendo esse um projeto simples porém divertido de se trabalhar, e que acredito vai exigir muito do pouco conhecimento que já tenho, e aprimorá-lo.
